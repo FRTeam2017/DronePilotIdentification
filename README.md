@@ -1,4 +1,4 @@
-# DronePilotIdentification
+# Incremental learning for drone pilot identification
 With the maturity of Unmanned Aerial Vehicle (UAV) technology and the development of Industrial Internet of Things, drones have become indispensible part of intelligent transportation system.
 Due to the absence of an effective identification scheme, most commercial drones suffer from impersonation attacks during the flight procedure.
 Some pioneer works already try to validate the pilot's legal status at the beginning and during the flight time.
