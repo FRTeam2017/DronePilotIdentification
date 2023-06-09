@@ -1,0 +1,2 @@
+timestamp,x,y,z,yaw,yawspeed,vx,vy,vz,acceleration[0],acceleration[1],acceleration[2],jerk[0],jerk[1],jerk[2],thrust[0],thrust[1],thrust[2]
+84693719,nan,nan,nan,0.00387408,0.0,nan,nan,0.00158054,6.50416e-05,-0.0167888,0.159024,nan,nan,8.0,nan,nan,nan
