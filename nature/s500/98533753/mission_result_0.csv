@@ -1,0 +1,10 @@
+timestamp,instance_count,seq_reached,seq_current,seq_total,item_changed_index,item_do_jump_remaining,valid,warning,finished,failure,stay_in_failsafe,flight_termination,item_do_jump_changed,execution_mode
+49736969,2,-1,0,7,0,0,1,0,0,0,0,0,0,0
+49750991,2,0,1,7,0,0,1,0,0,0,0,0,0,0
+49776463,2,1,2,7,0,0,1,0,0,0,0,0,0,0
+49783510,2,2,3,7,0,0,1,0,0,0,0,0,0,0
+148871826,2,3,4,7,0,0,1,0,0,0,0,0,0,0
+195068444,2,4,5,7,0,0,1,0,0,0,0,0,0,0
+299391813,2,5,6,7,0,0,1,0,0,0,0,0,0,0
+332489522,2,6,6,7,0,0,1,0,1,0,0,0,0,0
+348592372,3,-1,0,7,0,0,1,0,0,0,0,0,0,0
