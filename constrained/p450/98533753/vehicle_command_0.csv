@@ -1,0 +1,6 @@
+timestamp,param5,param6,param1,param2,param3,param4,param7,command,target_system,target_component,source_system,source_component,confirmation,from_external
+750439256,nan,nan,0.0,2.0,nan,nan,nan,530,1,1,1,1,0,0
+750441046,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,2003,1,1,1,1,0,0
+750451831,0.0,0.0,1.0,1.0,-1.0,0.0,0.0,178,1,1,1,1,0,0
+1053074540,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20,1,1,1,1,0,0
+1053086379,0.0,0.0,-1.0,0.0,1.0,0.0,0.0,2003,1,1,1,1,0,0
